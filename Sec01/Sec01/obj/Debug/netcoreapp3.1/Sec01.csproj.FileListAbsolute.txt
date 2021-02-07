@@ -1,0 +1,4 @@
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.csproj.CoreCompileInputs.cache
