@@ -2,3 +2,11 @@
 /Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.AssemblyInfoInputs.cache
 /Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.AssemblyInfo.cs
 /Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/bin/Debug/netcoreapp3.1/Sec01.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/bin/Debug/netcoreapp3.1/Sec01.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/bin/Debug/netcoreapp3.1/Sec01.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/bin/Debug/netcoreapp3.1/Sec01.dll
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/bin/Debug/netcoreapp3.1/Sec01.pdb
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.dll
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.pdb
+/Users/git-repo/CSharp-MasterClass/Sec01/Sec01/obj/Debug/netcoreapp3.1/Sec01.genruntimeconfig.cache

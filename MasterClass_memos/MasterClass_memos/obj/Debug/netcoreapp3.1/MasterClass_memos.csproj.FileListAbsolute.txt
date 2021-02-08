@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/bin/Debug/netcoreapp3.1/MasterClass_memos.deps.json
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/bin/Debug/netcoreapp3.1/MasterClass_memos.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/bin/Debug/netcoreapp3.1/MasterClass_memos.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/bin/Debug/netcoreapp3.1/MasterClass_memos.dll
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/bin/Debug/netcoreapp3.1/MasterClass_memos.pdb
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.dll
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.pdb
+/Users/git-repo/CSharp-MasterClass/MasterClass_memos/MasterClass_memos/obj/Debug/netcoreapp3.1/MasterClass_memos.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EF4EB83C-03E4-46CA-9CCA-9283F4E22B3F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MasterClass_memos/Program.cs">
     <Files>
-      <File FileName="MasterClass_memos/Program.cs" Line="1" Column="1" />
+      <File FileName="MasterClass_memos/Program.cs" Line="19" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +13,13 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MasterClass__memos FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MasterClass__memos PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
