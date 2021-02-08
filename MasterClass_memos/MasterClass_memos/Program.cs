@@ -3,7 +3,20 @@
 namespace MasterClass_memos {
     class Program {
         static void Main (string[] args) {
-            Console.WriteLine ("Hello World!");
+            Console.WriteLine ("-----------------------------");
+            //三項演算子の使い方
+            
+            string statefMatter = "";
+            int temprature = 100;
+            string str = "a";
+
+            statefMatter = "liquid";
+
+            statefMatter = temprature > 100 && str == "a" ? "gas" :
+                temprature < 0 ? "solid" :
+                "liquid";
+            Console.WriteLine ($"{statefMatter} / {temprature}");
+            Console.WriteLine ("-----------------------------");
 
             //もし波線エラーが出ている場合はoption + Enterでクリックした内容のリストが表示される
 
