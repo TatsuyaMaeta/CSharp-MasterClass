@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/bin/Debug/netcoreapp3.1/sec06-member_and_destructor.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/bin/Debug/netcoreapp3.1/sec06-member_and_destructor.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/bin/Debug/netcoreapp3.1/sec06-member_and_destructor.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/bin/Debug/netcoreapp3.1/sec06-member_and_destructor.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/bin/Debug/netcoreapp3.1/sec06-member_and_destructor.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/sec06-member_and_destructor/sec06-member_and_destructor/obj/Debug/netcoreapp3.1/sec06-member_and_destructor.genruntimeconfig.cache

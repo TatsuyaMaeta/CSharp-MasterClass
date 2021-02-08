@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sec06-member_and_destructor/1.0.0": {
+        "runtime": {
+          "sec06-member_and_destructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sec06-member_and_destructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

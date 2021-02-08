@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{44A2C482-7141-46B5-BD01-11247EBCD9EF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sec06-property/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sec06-property/Box.cs">
     <Files>
-      <File FileName="Sec06-property/Program.cs" Line="1" Column="1" />
+      <File FileName="Sec06-property/Program.cs" Line="20" Column="33" />
+      <File FileName="Sec06-property/Box.cs" Line="9" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sec06-property" expanded="True">
             <Node name="Sec06-property" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Box.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -21,5 +25,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Sec06-property FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Sec06-property PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

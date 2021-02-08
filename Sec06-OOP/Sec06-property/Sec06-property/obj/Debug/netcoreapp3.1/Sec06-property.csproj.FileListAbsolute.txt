@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/bin/Debug/netcoreapp3.1/Sec06-property.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/bin/Debug/netcoreapp3.1/Sec06-property.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/bin/Debug/netcoreapp3.1/Sec06-property.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/bin/Debug/netcoreapp3.1/Sec06-property.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/bin/Debug/netcoreapp3.1/Sec06-property.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-property/Sec06-property/obj/Debug/netcoreapp3.1/Sec06-property.genruntimeconfig.cache
