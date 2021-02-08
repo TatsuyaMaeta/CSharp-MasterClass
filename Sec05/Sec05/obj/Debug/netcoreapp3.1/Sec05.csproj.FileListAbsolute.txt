@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/bin/Debug/netcoreapp3.1/Sec05.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/bin/Debug/netcoreapp3.1/Sec05.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/bin/Debug/netcoreapp3.1/Sec05.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/bin/Debug/netcoreapp3.1/Sec05.dll
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/bin/Debug/netcoreapp3.1/Sec05.pdb
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.dll
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.pdb
+/Users/git-repo/CSharp-MasterClass/Sec05/Sec05/obj/Debug/netcoreapp3.1/Sec05.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/bin/Debug/netcoreapp3.1/Sec06-OOP.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/bin/Debug/netcoreapp3.1/Sec06-OOP.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/bin/Debug/netcoreapp3.1/Sec06-OOP.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/bin/Debug/netcoreapp3.1/Sec06-OOP.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/bin/Debug/netcoreapp3.1/Sec06-OOP.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.dll
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.pdb
+/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/obj/Debug/netcoreapp3.1/Sec06-OOP.genruntimeconfig.cache

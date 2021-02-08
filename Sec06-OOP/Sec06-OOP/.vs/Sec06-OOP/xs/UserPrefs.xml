@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F26BCB81-2D4F-4CBA-90DA-BA07B445303A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sec06-OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sec06-OOP/Program.cs">
+    <Files>
+      <File FileName="Sec06-OOP/Program.cs" Line="49" Column="11" />
+      <File FileName="Sec06-OOP/Human.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sec06-OOP" expanded="True">
+            <Node name="Sec06-OOP" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/git-repo/CSharp-MasterClass/Sec06-OOP/Sec06-OOP/Program.cs" relfile="Sec06-OOP/Program.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
