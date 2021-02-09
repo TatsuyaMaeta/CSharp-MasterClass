@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+
 namespace sec06_member_and_destructor
 {
     public class Members
@@ -55,6 +57,7 @@ namespace sec06_member_and_destructor
         ~Members(){
             //cleanup statement
             Console.WriteLine("Deconstraction of Members object");
+            Debug.Write("Deconstraction of Members object");
         }
     }
 }

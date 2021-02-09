@@ -1,11 +1,15 @@
-﻿<Properties StartupConfiguration="{4813F87F-77B3-4DB6-B7AB-987544EB5207}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{AC24CE3E-02FD-4DDE-AD35-2E38DDD0B260}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+    <Files>
+      <File FileName="TicTacToe/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="sec06-member_and_destructor" expanded="True">
-            <Node name="sec06-member_and_destructor" expanded="True">
-              <Node name="member.cs" selected="True" />
+          <Node name="TicTacToe" expanded="True">
+            <Node name="TicTacToe" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -15,7 +19,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.sec06-member__and__destructor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

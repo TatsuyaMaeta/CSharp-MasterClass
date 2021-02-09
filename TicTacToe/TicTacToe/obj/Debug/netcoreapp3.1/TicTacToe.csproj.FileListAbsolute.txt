@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.deps.json
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/bin/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/git-repo/CSharp-MasterClass/TicTacToe/TicTacToe/obj/Debug/netcoreapp3.1/TicTacToe.genruntimeconfig.cache
