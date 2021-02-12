@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/bin/Debug/netcoreapp3.1/Sec07-arrayAndList.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/bin/Debug/netcoreapp3.1/Sec07-arrayAndList.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/bin/Debug/netcoreapp3.1/Sec07-arrayAndList.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/bin/Debug/netcoreapp3.1/Sec07-arrayAndList.dll
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/bin/Debug/netcoreapp3.1/Sec07-arrayAndList.pdb
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.dll
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.pdb
+/Users/git-repo/CSharp-MasterClass/Sec07-Array/Sec07-arrayAndList/Sec07-arrayAndList/obj/Debug/netcoreapp3.1/Sec07-arrayAndList.genruntimeconfig.cache
