@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/bin/Debug/netcoreapp3.1/Sec09-Inheritance.deps.json
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/bin/Debug/netcoreapp3.1/Sec09-Inheritance.runtimeconfig.json
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/bin/Debug/netcoreapp3.1/Sec09-Inheritance.runtimeconfig.dev.json
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/bin/Debug/netcoreapp3.1/Sec09-Inheritance.dll
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/bin/Debug/netcoreapp3.1/Sec09-Inheritance.pdb
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.AssemblyInfo.cs
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.dll
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.pdb
+/Users/git-repo/CSharp-MasterClass/Sec09-Inheritance/Sec09-Inheritance/Sec09-Inheritance/obj/Debug/netcoreapp3.1/Sec09-Inheritance.genruntimeconfig.cache
